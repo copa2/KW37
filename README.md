@@ -3,7 +3,7 @@
 ## Italien
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| Canazei (Dolomiten) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/canazei_italien_3180883 | Nordwind? / Funkgerät? | 
+| [Col Rodella](http://www.paragliding365.com/index-p-flightarea_details_383.html) Canazei (Dolomiten) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/canazei_italien_3180883 | Nordwind? / Funkgerät? | 
 | Feltre | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/feltre_italien_3177120 | |
 | Bassano | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bassano-del-grappa_italien_3182297 | Viele Leute? |
 | San Fermo | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bergamo_italien_3182164 | |
@@ -22,15 +22,15 @@
 
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| Stol (Kobarid) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/kobarid_slowenien_3197983 |  http://www.paragliding365.com/index-p-flightarea_details_5141.html |
-| Kobala (Tolmin) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/tolmin_slowenien_3189038 | http://www.paragliding365.com/index-p-flightarea_details_4613.html |
-| Lijak (Nova Gorica) | |  http://www.paragliding365.com/index-p-flightarea_details_5101.html | 
+| [Stol](http://www.paragliding365.com/index-p-flightarea_details_5141.htm) (Kobarid) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/kobarid_slowenien_3197983 |  l |
+| [Kobala](http://www.paragliding365.com/index-p-flightarea_details_4613.html)  (Tolmin) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/tolmin_slowenien_3189038 |  |
+| [Lijak](http://www.paragliding365.com/index-p-flightarea_details_5101.html) (Nova Gorica) | |  | 
 
 ## Frankreich
 | Ort | Meteo | Info |
 | --- | --- | --- |
 | Dünä | | |
-| St. André-Les-Alpes | http://www.meteofrance.com/previsions-meteo-france/saint-andre-les-alpes/04170, https://www.meteoblue.com/de/wetter/vorhersage/14-tage/saint-andr%C3%A9-les-alpes_frankreich_2981717 | |
+| [St. André-Les-Alpes](http://www.paragliding365.com/index-p-flightarea_details_4730.html) | http://www.meteofrance.com/previsions-meteo-france/saint-andre-les-alpes/04170, https://www.meteoblue.com/de/wetter/vorhersage/14-tage/saint-andr%C3%A9-les-alpes_frankreich_2981717 | https://www.flyozone.com/paragliders/de/infozone/fly-gourdon/st-andre-les-alpes/ |
 | Millau | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/millau_frankreich_2993875 | |
 | Laragne | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/laragne-mont%C3%A9glin_frankreich_3007082 | Noch genug Thermik? |
 | Annency | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/annecy_frankreich_3037543 | Viele Leute? Genug Thermik? |
