@@ -22,7 +22,7 @@
 
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| [Stol](http://www.paragliding365.com/index-p-flightarea_details_5141.htm) (Kobarid) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/kobarid_slowenien_3197983 |  l |
+| [Stol](http://www.paragliding365.com/index-p-flightarea_details_5141.html) (Kobarid) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/kobarid_slowenien_3197983 |  l |
 | [Kobala](http://www.paragliding365.com/index-p-flightarea_details_4613.html)  (Tolmin) | https://www.meteoblue.com/de/wetter/vorhersage/14-tage/tolmin_slowenien_3189038 |  |
 | [Lijak](http://www.paragliding365.com/index-p-flightarea_details_5101.html) (Nova Gorica) | |  | 
 
