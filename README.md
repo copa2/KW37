@@ -4,7 +4,7 @@
 ## Italien
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| [Col Rodella](http://www.paragliding365.com/index-p-flightarea_details_383.html) Canazei (Dolomiten) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/canazei_italien_3180883") | Nordwind? / Funkgerät? | 
+| [Col Rodella](http://www.paragliding365.com/index-p-flightarea_details_383.html) Canazei (Dolomiten) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/canazei_italien_3180883) | Nordwind? / Funkgerät? | 
 | Feltre | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/feltre_italien_3177120) | |
 | Bassano | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bassano-del-grappa_italien_3182297) | Viele Leute? |
 | San Fermo | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bergamo_italien_3182164) | |
