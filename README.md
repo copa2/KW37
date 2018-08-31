@@ -32,8 +32,8 @@
 | --- | --- | --- |
 | Dünä | | |
 | [St. André-Les-Alpes](http://www.paragliding365.com/index-p-flightarea_details_4730.html) | http://www.meteofrance.com/previsions-meteo-france/saint-andre-les-alpes/04170, [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/saint-andr%C3%A9-les-alpes_frankreich_2981717) | https://www.flyozone.com/paragliders/de/infozone/fly-gourdon/st-andre-les-alpes/ |
-| Millau | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/millau_frankreich_2993875) | |
-| Laragne | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/laragne-mont%C3%A9glin_frankreich_3007082) | Noch genug Thermik? |
+| [Millau](http://www.paragliding365.com/index-p-flightarea_details_650.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/millau_frankreich_2993875) | |
+| [Laragne](http://www.paragliding365.com/index-p-flightarea_details_595.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/laragne-mont%C3%A9glin_frankreich_3007082) | Noch genug Thermik? |
 | Annency | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/annecy_frankreich_3037543) | Viele Leute? Genug Thermik? |
 
 ## Österreich
