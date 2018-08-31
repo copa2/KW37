@@ -9,8 +9,8 @@
 | Bassano | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bassano-del-grappa_italien_3182297) | Viele Leute? |
 | San Fermo | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bergamo_italien_3182164) | |
 | Gemona | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/gemona_italien_3176234) | (nähe Kobarid Slowenien -> Flughafen?) |
-| Ivrea | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/ivrea_italien_3175384) | |
-| Casteluccio | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179567) |  |
+| Ivrea (Cima Cavallaria / Santa Elisabetta) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/ivrea_italien_3175384) | |
+| [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179567) |  |
 | Piedimonte Matese | | |
 | Norma | | (atz latina) |
 | Sizilien | | |
