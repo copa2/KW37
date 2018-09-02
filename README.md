@@ -55,7 +55,7 @@
 ## Portugal
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| Manteigas: [Azinha](http://www.paragliding365.com/index-p-flightarea_details_6440.html) ,[Linhares](http://www.paragliding365.com/index-p-flightarea_details_550.html), Vale de Amoreira, Sierra de Estrela | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/manteigas_portugal_2737936) | |
+| Manteigas: [Azinha](http://www.paragliding365.com/index-p-flightarea_details_6440.html) ,[Linhares](http://www.paragliding365.com/index-p-flightarea_details_550.html), Vale de Amoreira, Sierra de Estrela | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/manteigas_portugal_2737936) | http://xcmag.com/travel-guide/guide-to-manteigas-portugal/ |
 | [Montalegre](http://www.paragliding365.com/index-p-flightarea_details_6922.html)  | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/montalegre_portugal_2737502) | |
 | Setubal | | , Küste -> Soaring is boring ;-) |
 
