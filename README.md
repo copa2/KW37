@@ -15,7 +15,7 @@
 | [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179567) |  |
 | Piedimonte Matese | | |
 | Norma | | (atz latina) |
-| Sizilien | | |
+| Sizilien | | Schläpf fragen |
 
 ## Slowenien
 * https://www.soca-valley.com/mma/gleitschirmfliegen/2018021614101467/, 
