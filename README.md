@@ -46,16 +46,20 @@
 ## Spanien
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| Castejon de Sos | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castej%C3%B3n-de-sos_spanien_3125939) |
-| Ager | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/%C3%80ger_spanien_3130920) | |
-| Piedrahita | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/piedrahita_spanien_3113594) | |
+| [Castejon de Sos](http://www.paragliding365.com/index-p-flightarea_details_513.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castej%C3%B3n-de-sos_spanien_3125939) |
+| [Ager](http://www.paragliding365.com/index-p-flightarea_details_6407.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/%C3%80ger_spanien_3130920) | |
+| [Piedrahita](http://www.paragliding365.com/index-p-flightarea_details_3546.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/piedrahita_spanien_3113594) | |
 | Algodonales (Andalusien) | | |
 | Küste | | -> Soaring is boring ;-) |
 
 ## Portugal
 | Ort | Meteo | Info |
 | --- | --- | --- |
-| Manteigas (Linhares) (Sierra de Estrela), Montalegre | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/manteigas_portugal_2737936) | |
+| Manteigas 
+  ([Azinha](http://www.paragliding365.com/index-p-flightarea_details_6440.html)) 
+  ([Linhares](http://www.paragliding365.com/index-p-flightarea_details_550.html))
+  Vale de Amoreira, Sierra de Estrela | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/manteigas_portugal_2737936) | |
+| [Montalegre](http://www.paragliding365.com/index-p-flightarea_details_6922.html)  | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/montalegre_portugal_2737502) | |
 | Setubal | | , Küste -> Soaring is boring ;-) |
 
 ## Montenegro 
