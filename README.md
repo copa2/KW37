@@ -12,7 +12,7 @@
 | San Fermo | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bergamo_italien_3182164) | |
 | Gemona | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/gemona_italien_3176234) | (nähe Kobarid Slowenien -> Flughafen?) |
 | Ivrea (Cima Cavallaria / Santa Elisabetta) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/ivrea_italien_3175384), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.ilmeteo.it/meteo/Ivrea)  | |
-| [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179568), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.ilmeteo.it/meteo/Castelluccio+Norcia) |  |
+| [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179568), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.ilmeteo.it/meteo/Castelluccio+Norcia), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.3bmeteo.com/meteo/castelluccio) |  |
 | Piedimonte Matese | | |
 | Norma | | (atz latina) |
 | Sizilien | | Schläpf fragen |
