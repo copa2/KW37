@@ -11,8 +11,8 @@
 | Bassano | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bassano-del-grappa_italien_3182297) | Viele Leute? |
 | San Fermo | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/bergamo_italien_3182164) | |
 | Gemona | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/gemona_italien_3176234) | (nähe Kobarid Slowenien -> Flughafen?) |
-| Ivrea (Cima Cavallaria / Santa Elisabetta) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/ivrea_italien_3175384) | |
-| [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179568) |  |
+| Ivrea (Cima Cavallaria / Santa Elisabetta) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/ivrea_italien_3175384), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.ilmeteo.it/meteo/Ivrea)  | |
+| [Casteluccio](http://www.paragliding365.com/index-p-flightarea_details_325.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/castelluccio_italien_3179568), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.ilmeteo.it/meteo/Castelluccio+Norcia) |  |
 | Piedimonte Matese | | |
 | Norma | | (atz latina) |
 | Sizilien | | Schläpf fragen |
@@ -33,7 +33,7 @@
 | Ort | Meteo | Info |
 | --- | --- | --- |
 | Dünä | | |
-| [St. André-Les-Alpes](http://www.paragliding365.com/index-p-flightarea_details_4730.html) | http://www.meteofrance.com/previsions-meteo-france/saint-andre-les-alpes/04170, [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/saint-andr%C3%A9-les-alpes_frankreich_2981717) | https://www.flyozone.com/paragliders/de/infozone/fly-gourdon/st-andre-les-alpes/ |
+| [St. André-Les-Alpes](http://www.paragliding365.com/index-p-flightarea_details_4730.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/saint-andr%C3%A9-les-alpes_frankreich_2981717), [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](http://www.meteofrance.com/previsions-meteo-france/saint-andre-les-alpes/04170) | https://www.flyozone.com/paragliders/de/infozone/fly-gourdon/st-andre-les-alpes/ |
 | [Millau](http://www.paragliding365.com/index-p-flightarea_details_650.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/millau_frankreich_2993875) | |
 | [Laragne](http://www.paragliding365.com/index-p-flightarea_details_595.html) | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/laragne-mont%C3%A9glin_frankreich_3007082) | Noch genug Thermik? |
 | Annency | [<img src="https://static.meteoblue.com/website/images/picto/04_day.svg" height="32">](https://www.meteoblue.com/de/wetter/vorhersage/14-tage/annecy_frankreich_3037543) | Viele Leute? Genug Thermik? |
