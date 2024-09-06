@@ -1,7 +1,7 @@
 # KW37
 ![](https://qph.fs.quoracdn.net/main-qimg-99b226557db5624c9a3236052b7032db)
 
-* [Höhenkarten](http://www1.wetter3.de/animation.html)
+* [Höhenkarten](https://www.wetter3.de/animation_dt.html)
 * [EnsemblePrognosen](https://www.wetteronline.ch/ensemble-prognose/europa)
 * [SoaringMeteo](https://soaringmeteo.org/v2/?lat=45.151&lng=10.129&z=6.1)
 
